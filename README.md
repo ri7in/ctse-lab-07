@@ -1,4 +1,7 @@
 # Azure Microservices Lab — FX Rate Dashboard
+
+> University coursework project associated with [@ri7in](https://github.com/ri7in).
+
 > SLIIT SE4010 | Sample Project
 
 ## Project Structure
